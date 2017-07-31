@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/LuiizMusic11/CLionProjects/Dia_7_Class_File_Ds/main.cpp
+iostream
+-
+miClase.h
+/Users/LuiizMusic11/CLionProjects/Dia_7_Class_File_Ds/miClase.h
+
+/Users/LuiizMusic11/CLionProjects/Dia_7_Class_File_Ds/miClase.cpp
+miClase.h
+/Users/LuiizMusic11/CLionProjects/Dia_7_Class_File_Ds/miClase.h
+
+/Users/LuiizMusic11/CLionProjects/Dia_7_Class_File_Ds/miClase.h
+iostream
+-
+
